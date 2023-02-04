@@ -1,4 +1,42 @@
-# Java-DSA-Programming ROAD MAP
+# C/C++ & Java-DSA-Programming ROAD MAP
+
+Start with the basics of C programming: data types, variables, loops, functions, and pointers.
+
+Learn about arrays and strings and how to manipulate them in C.
+
+Study linked lists, which are a basic data structure in C.
+
+Study stack and queue data structures.
+
+Study sorting algorithms like bubble sort, selection sort, insertion sort, and merge sort.
+
+Study searching algorithms like linear search and binary search.
+
+Study tree data structures like binary trees and AVL trees.
+
+Study graph algorithms like breadth-first search (BFS) and depth-first search (DFS).
+
+Study dynamic programming, a technique for solving complex problems by breaking them down into smaller sub-problems.
+
+Study greedy algorithms, a technique for solving optimization problems by making the locally optimal choice at each stage.
+
+Study hash tables and learn how to implement them in C.
+
+Study advanced data structures like Tries and Heaps.
+
+Study advanced algorithms like the shortest path algorithms, maximum flow algorithms, and minimum cut algorithms.
+
+Practice solving coding problems that involve DSA concepts on online platforms like LeetCode and HackerRank.
+
+Finally, keep practicing and revisiting the concepts regularly to solidify your understanding.
+
+
+
+
+
+
+
+
 
 
 
